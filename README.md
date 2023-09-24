@@ -1,2 +1,2 @@
 # Dirassa
-School Project
+School Project using React.js & Firebase
